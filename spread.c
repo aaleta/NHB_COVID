@@ -93,7 +93,6 @@ void infect(int source, int type)
 
 	      //Various
 	      n_active++;
-	      n_active_cum++;
 	    }
 	}
     }  
@@ -284,7 +283,6 @@ void resetVariables()
 
   t = 0;
   n_active = 0;
-  n_active_cum = 0;
 }
 
 void resetNodes()

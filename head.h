@@ -47,7 +47,7 @@ int N, n_runs, parameters;
 double r, epsilon_asymptomatic, epsilon_symptomatic, p, gammita, mu, delta, muH, muICU, k, beta_normal;
 double alpha[NAGE], xi[NAGE], beta[NCOMPARTMENTS];
 //Spreading
-int n_active, index_node, n_active_cum;
+int n_active, index_node;
 List latent_asymptomatic, latent_symptomatic, infectious_asymptomatic, pre_symptomatic, infectious_symptomatic, home, hospital, icu, recovered;
 List new_latent_asymptomatic, new_latent_symptomatic, new_infectious_asymptomatic, new_pre_symptomatic, new_infectious_symptomatic, new_home, new_hospital, new_icu, new_recovered;
 //Network

@@ -33,18 +33,20 @@ This will produce 2 text files in the Results folder:
 
 Please use the citation:
 ```
-Aleta, A., Martín-Corral, D., Pastore y Piontti, A. et al. Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19. Nat Hum Behav (2020). https://doi.org/10.1038/s41562-020-0931-9
+Aleta, A., Martín-Corral, D., Pastore y Piontti, A. et al. Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19. Nat Hum Behav 4, 964–971 (2020). https://doi.org/10.1038/s41562-020-0931-9
 ```
 
 Or this bibtex entry:
 ```
-@article{Aleta2020Aug,
+@article{Aleta2020Sep,
 	author = {Aleta, Alberto and Mart{\ifmmode\acute{\imath}\else\'{\i}\fi}n-Corral, David and Pastore y. Piontti, Ana and Ajelli, Marco and Litvinova, Maria and Chinazzi, Matteo and Dean, Natalie E. and Halloran, M. Elizabeth and Longini Ira, Jr., M. and Merler, Stefano and Pentland, Alex and Vespignani, Alessandro and Moro, Esteban and Moreno, Yamir},
 	title = {{Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19}},
 	journal = {Nat. Hum. Behav.},
-	pages = {1--8},
+	volume = {4},
+	number = {9},
+	pages = {964--971},
 	year = {2020},
-	month = {Aug},
+	month = {Sep},
 	issn = {2397-3374},
 	publisher = {Nature Publishing Group},
 	doi = {10.1038/s41562-020-0931-9}
